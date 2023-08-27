@@ -1,0 +1,3 @@
+Just db for labs in university...
+
+![ER struct of database](bd_ER.png)
